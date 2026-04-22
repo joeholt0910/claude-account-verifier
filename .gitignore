@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Output files (generated at runtime)
+verification-output-*.csv
+
+# Test fixtures
+test-customers.csv
+test-companies.csv
+
+# Editor cruft
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+.python-version
+
+# Env
+.env
+.env.local

@@ -1,0 +1,8 @@
+{
+  "name": "verify-account",
+  "version": "0.2.0",
+  "description": "Batch B2B account verification for headcount, HQ, and entity classification (Parent / Standalone / Independent Child / Dependent Child). Cross-references against a Salesforce customer export. Uses a strict source hierarchy (SEC filings → annual reports → reputable platforms → aggregators), parallel subagents for scale, and a self-populating knowledge base.",
+  "author": {
+    "name": "Joe Holt"
+  }
+}
