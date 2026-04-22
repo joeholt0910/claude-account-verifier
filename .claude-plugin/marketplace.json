@@ -1,0 +1,13 @@
+{
+  "name": "claude-account-verifier",
+  "owner": {
+    "name": "Joe Holt"
+  },
+  "plugins": [
+    {
+      "name": "verify-account",
+      "source": "./",
+      "description": "Batch B2B account verification with customer cross-referencing"
+    }
+  ]
+}
